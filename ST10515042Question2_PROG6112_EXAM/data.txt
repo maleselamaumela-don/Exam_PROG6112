@@ -1,0 +1,8 @@
+DATA LOG
+*******************************************
+Customer Name: null
+Product: 
+VAT: R
+COMMISION: R
+TOTAL: R
+*******************************************
